@@ -34,8 +34,7 @@ A validação de entrada é feita por meio de funções JavaScript que verificam
 
 ## 💻 Tecnologias Utilizadas
 
-- **HTML5** – Estrutura semântica da página;  
-- **CSS3** – (opcional, para estilização caso aplicada);  
+- **HTML5** – Estrutura semântica da página;    
 - **JavaScript (Vanilla)** – Validação e controle de interação;  
 - **DOM API** – Manipulação dinâmica de elementos na página.
 
